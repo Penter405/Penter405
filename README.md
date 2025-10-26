@@ -1,5 +1,7 @@
-## Hi there 👋
+# a note for myself
 
+https://www.youtube.com/watch?v=_i4Yxeh5ceQ
+https://www.youtube.com/watch?v=qMky6D6YtXU
 <!--
 **Penter405/Penter405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
