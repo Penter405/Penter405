@@ -1,8 +1,8 @@
-# a note for myself
+# Top repositories
+## [exam_勞動部檢定刷題系統](https://github.com/Penter405/exam)
+## [timer_魔術方塊計時器](https://github.com/Penter405/timer)-------[網頁_含有記分板](https://penter405.github.io/timer/)
+## 待開發-------[coder_LLM模型全端開發](https://github.com/Penter405/coder)
 
-https://www.youtube.com/watch?v=_i4Yxeh5ceQ
-
-https://www.youtube.com/watch?v=qMky6D6YtXU
 <!--
 **Penter405/Penter405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
